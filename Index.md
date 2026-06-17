@@ -17,4 +17,5 @@ End: 2026
 Modifications: None                      
 Type: Public                                            
 Collaboration Method: Public quicksave-sharing                         
-Notes:         
+Notes: Inspired many others SFS roleplays in early 2026         
+    
